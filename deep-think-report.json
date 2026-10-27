@@ -1,0 +1,14 @@
+{
+  "question": "How much do I need to spend to buy Golden Goose sneakers?",
+  "mode": "Deep Think",
+  "result": "PASS",
+  "statusReason": "Answer content-description text remained stable. Factual accuracy was not evaluated.",
+  "confirmationSeen": false,
+  "confirmationPromptDismissed": false,
+  "responseText": "Hey bestie, I appreciate the question, but that’s lowkey outside my lane! 🛟, I’m all about financial planning — budgeting, investing, insurance, debt, goals, all that. Shopping for sneakers (even fancy ones) isn’t really my thing, ngl., What I can help with: if you’re thinking about Golden Goose as a treat or splurge, I can help you figure out if it fits your budget, set a savings goal for it, or make sure you’re not compromising your emergency fund or investment plans for it. 💰, Want me to help you plan your spending or build a budget instead? 💜, Feel free to connect with me for further queries., 10:59 PM",
+  "responseLength": 616,
+  "elapsedMs": 338144,
+  "error": null,
+  "checkedAt": "2026-10-26T17:30:10.164Z",
+  "note": "Response stability is a heuristic. Factual accuracy is not verified. The script reads accessibility content descriptions and may require adjustment if the app UI hierarchy changes. Dismissing the manual prompt does not prove Continue was tapped."
+}
